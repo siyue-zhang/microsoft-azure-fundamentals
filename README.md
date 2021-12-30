@@ -75,6 +75,27 @@ A public IP address can also be allocated to a VM. It allows for communication t
 
 Virtual Network Peering: VM communicate with another VM
 
+## Dedicated Hosts
+
+* This is a service that gives you a physical server as a resource
+* Allow you to host one or more VMs on the physical server
+* No other customer can host their VM on the physical server
+* Hardware isolation at the physical server level
+* Has control over the maintenance events that get initiated by Azure platform
+
+## Marketplace
+
+E.g. Wordpress on Windows Server 2016, solution installed OS
+
+## Network Security Groups
+
+* Used to control traffic into your subnet or VM
+* Inbound and outbound traffic
+
+<img src=https://docs.microsoft.com/en-us/azure/bastion/media/bastion-nsg/figure-1.png width=700>
+
+
+
 
 
 
