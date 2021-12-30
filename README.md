@@ -98,6 +98,17 @@ E.g. Wordpress on Windows Server 2016, solution installed OS
 2. Allows RDP traffic via NSG rules (port 3389)
 3. Allows HTTP traffic via NSG rules (port 80)
 
+## VM Scale Sets
+
+Scale sets increase/ decrease the amount of VMs when pre-defined critera has been met (e.g. 70% CPU utilization)
+
+* This service allows you to create a set of identical VMs
+* Allows you to scale on demand
+* Add high availability to infra
+* Place the Scale Set behind either a load balancer or an Application Gateway
+
+
+
 
 
 
