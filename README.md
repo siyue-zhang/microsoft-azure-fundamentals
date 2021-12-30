@@ -1,5 +1,5 @@
 # microsoft-azure-fundamentals
-Notes for Exam AZ-900: Microsoft Azure Fundamentals
+Notes for [Exam AZ-900: Microsoft Azure Fundamentals](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA)
 
 <img src=https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg width=100>
 
@@ -14,4 +14,24 @@ Notes for Exam AZ-900: Microsoft Azure Fundamentals
 
 
 ## Cloud Concepts
+
+### Cloud Models
+
+**Public cloud**: Azure, physical infrastructure is managed by Microsoft. Lower costs, less maintenance, high availability and reliability.
+
+**Private cloud**: The physical infrastructure is managed by your company. The company wants to own the entire infra. Government agency or a financial institution - own the infra and the data.
+
+**Hybrid Cloud**: Connect Azure to your own-premise infrastructure. Get the best from both sides.
+
+### Types of Services
+
+**IaaS**: The physical infrastructure is managed by Azure. You only manage the virtual server. Access to various computing types, various types of workloads.
+
+**PaaS**: Physical server + virtual machines are managed by Azure (e.g. Azure SQL Database). Automated backups.
+
+**SaaS**: Physical server + virtual machine + software, (e.g. Gmail, online version of Office 365).
+
+
+
+
 
