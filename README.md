@@ -31,6 +31,25 @@ Notes for [Exam AZ-900: Microsoft Azure Fundamentals](https://query.prod.cms.rt.
 
 **SaaS**: Physical server + virtual machine + software, (e.g. Gmail, online version of Office 365).
 
+### Expenditure
+
+On-premise Web Server + Database Server:
+* Buy physical servers
+* Buy storage
+* Buy OS licences
+* Buy database licence
+* Networking
+* Pay for workforce to maintain the infra
+* Cost of electricity
+
+### Shared Responsibility Model
+
+<img src=https://satalyst.com/wp-content/uploads/2021/02/Azure-shared-responsibility-model.png>
+
+
+
+
+
 
 
 
