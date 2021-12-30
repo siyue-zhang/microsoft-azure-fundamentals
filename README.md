@@ -94,7 +94,9 @@ E.g. Wordpress on Windows Server 2016, solution installed OS
 
 <img src=https://docs.microsoft.com/en-us/azure/bastion/media/bastion-nsg/figure-1.png width=700>
 
-
+1. Deploy a VM
+2. Allows RDP traffic via NSG rules (port 3389)
+3. Allows HTTP traffic via NSG rules (port 80)
 
 
 
