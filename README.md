@@ -51,9 +51,31 @@ On-premise Web Server + Database Server:
 
 ### Azure Regions
 
+* Availability zones are physically separate locations within an Azure region
+* Each availability zone is made up of one or more datacenters
+* Each availability zone is equipped with independent power, cooling and networking
+
 ### Azure Free Account
 
-## Azure Portal
+12 months free services, $200 credit, always free 25 services
+
+only for B1S VM
+
+## Resource Groups
+
+Container to hold related resources
+
+## Virtual Network
+
+* Virtual machines are hosted in the virtual network
+* VN can consist of multiple subnets
+* Each VN needs to be assigned an address space
+
+A public IP address can also be allocated to a VM. It allows for communication to the Internet.
+
+Virtual Network Peering: VM communicate with another VM
+
+
 
 
 
