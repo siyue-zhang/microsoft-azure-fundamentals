@@ -5,7 +5,7 @@ Notes for Exam AZ-900: Microsoft Azure Fundamentals
 
 ## Exam Objectives
 
-1. Describe Cloud Concepts (20-25%)
+1. [Describe Cloud Concepts](cloud-concepts) (20-25%)
 2. Describe Core Azure Services (15-20%)
 3. Describe core solutions and management tools on Azure (10-15%)
 4. Describe general security and network security features (10-15%)
@@ -13,5 +13,5 @@ Notes for Exam AZ-900: Microsoft Azure Fundamentals
 6. Describe Azure cost management and Service Level Agreements (10-15%)
 
 
-
+## Cloud Concepts
 
