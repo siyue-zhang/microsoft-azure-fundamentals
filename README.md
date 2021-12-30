@@ -107,9 +107,15 @@ Scale sets increase/ decrease the amount of VMs when pre-defined critera has bee
 * Add high availability to infra
 * Place the Scale Set behind either a load balancer or an Application Gateway
 
+## Load Balancer
 
+User request -> load balancer -> VMs
 
+Database servers <-> **Internal load balancer** <-> Web servers <-> **Public load balancer** <-> Users
 
+Health Probe - This is used to check whether a backend VM is healthy or not.
+
+Session Persistence - Client IP's can be directed to the same backend VMs
 
 
 
