@@ -165,7 +165,22 @@ Layer 3 routing
 
 A private link doesn't go via Internet
 
-##  
+### Web App
+
+Platform as a service on the cloud, service for hosting web applications
+
+.Net, .Net Core, Java, Ruby, Node.js, PHP, Python
+
+Underlying servers can be Windows or Linux
+
+Devops - continuous deployment
+
+Blue Green deployments using staging slots
+
+Authenticate with external providers
+
+
+
 
 
 ## Security Privacy Compliance and Trust
