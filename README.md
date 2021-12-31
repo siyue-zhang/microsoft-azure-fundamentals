@@ -166,7 +166,7 @@ Layer 3 routing
 
 A private link doesn't go via Internet
 
-### Web App
+### Web App Service
 
 Platform as a service on the cloud, service for hosting web applications
 
@@ -264,3 +264,11 @@ Source code can be located in Github.
 Measurement of costing:
 * The storage
 * The throughput
+
+### Disaster recovery
+Can deploy recources across multiple regions
+
+### Load balancer for increase overall availability
+With Standard Load Balancer, you can scale your applications and create highly available services.
+
+
