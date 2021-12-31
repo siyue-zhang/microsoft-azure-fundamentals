@@ -179,8 +179,11 @@ Blue Green deployments using staging slots
 
 Authenticate with external providers
 
+## Databricks
 
+Apache Spark-based analytics platform
 
+<img src=https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/images/stream-processing-databricks.png>
 
 
 ## Security Privacy Compliance and Trust
