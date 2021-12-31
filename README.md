@@ -8,7 +8,7 @@ Notes for [Exam AZ-900: Microsoft Azure Fundamentals](https://query.prod.cms.rt.
 1. [Describe Cloud Concepts](#cloud-concepts) (20-25%)
 2. [Describe Core Azure Services](#azure-core-services) (15-20%)
 3. Describe core solutions and management tools on Azure (10-15%)
-4. Describe general security and network security features (10-15%)
+4. [Describe general security and network security features](#security-privacy-compliance-and-trust) (10-15%)
 5. Describe identity, governance, privacy, and compliance features (15-20%)
 6. Describe Azure cost management and Service Level Agreements (10-15%)
 
@@ -168,6 +168,6 @@ A private link doesn't go via Internet
 ##  
 
 
-
+## Security Privacy Compliance and Trust
 
 
