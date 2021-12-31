@@ -12,6 +12,7 @@ Notes for [Exam AZ-900: Microsoft Azure Fundamentals](https://query.prod.cms.rt.
 5. Describe identity, governance, privacy, and compliance features (15-20%)
 6. Describe Azure cost management and Service Level Agreements (10-15%)
 
+[Practice Questions](#practice-questions)
 
 ## Cloud Concepts
 
@@ -251,3 +252,15 @@ Source code can be located in Github.
 ## Security Privacy Compliance and Trust
 
 
+
+## Practice Questions
+
+### VM related storage
+1. Data Disk: a managed disk attached to a VM to store application data, max 32TB
+2. OS Disk: pre-installed OS, max 2TB
+3. Temporary Disk: not a managed disk, short-term storage for applications and processes, may be lost during a maintenance event. During a successful standard reboot of VM, the data on the temporary disk will persist.
+
+### Cosmos DB account cost
+Measurement of costing:
+* The storage
+* The throughput
