@@ -117,6 +117,47 @@ Health Probe - This is used to check whether a backend VM is healthy or not.
 
 Session Persistence - Client IP's can be directed to the same backend VMs
 
+Work at Layer 4 - Network Layer
+
+## Application Gateway
+
+Load balancer that works at Layer 7 - Application Layer
+
+Full managed service: infra, scalability, availability by Azure
+
+URL based routing: user can define mapping between the URL link and the VM
+
+<img src=https://azuretrainings.files.wordpress.com/2019/04/appgw1.jpg>
+
+Web Application Firewall: protect against common attacks such as SQL injection, cross site sripting attacks
+
+## Azure Storage
+
+Different types of services:
+* BLOB: object storage solution, store unstructured data, files/ videos/ images/ log files
+* File: allow for retrieval of files via Server Message Block protocol
+* Table: used for structured NoSQL data, e.g. user data for applications
+* Queue: used for storage and retrieval of messages, a single message in the queue max 64 KB
+
+### BLOB (binary large object)
+
+* Hot storage tier - ideal for objects that are accessed frequently
+* Cool tier - optimized for data that is infrequently accessed
+* Archive tier - optimized for data that is rarely accessed
+
+## VPN Gateway
+
+Virtual private network gateway, the traffic sent via the Gateway is encrypted.
+
+**Point to Site Connection**: connect workstations to an Azure Virtual Network, you need to install VPN client
+
+**Site to Site Connection**: connect on-premise networks to Azure networks, your on-premise network should have a VPN device with an IP address that is routable over the Internet
+
+
+
+
+
+
 
 
 
