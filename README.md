@@ -221,6 +221,33 @@ Content Moderator to monitor for offensive language
 
 Bing News Search, Video Search
 
+### Bot Services
+
+Life intercation
+
+.Net
+
+### DepOps Services
+
+Goal is to deliver applications and services at high velocity.
+
+Azure Boards: user stories, backlog items, task, features and bugs
+
+Repos: version control tools
+
+Pipelines: automatically build and test code project
+
+Test Plans: manage manual testing includes user acceptance test, exploratory test and shareholder feedback
+
+Source code can be located in Github.
+
+
+
+
+
+
+
+
 ## Security Privacy Compliance and Trust
 
 
