@@ -179,12 +179,47 @@ Blue Green deployments using staging slots
 
 Authenticate with external providers
 
-## Databricks
+### Databricks
 
 Apache Spark-based analytics platform
 
 <img src=https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/images/stream-processing-databricks.png>
 
+### HDInsight
+
+Cloud distribution of Hadoop based components
+
+### Azure Resource Manager Templates
+
+ARM templates: JSON template that contains the resources that you want to create in Azure
+* Schema: version of template language
+* Content version: version of the template
+* Resources: main section where you define the resources that need to be deployed as part of the template
+* Parameters: customize the deployment of the resources
+
+### Cognitive Services
+
+#### Vision API
+
+E.g. find faces in images, extract text from the images
+
+#### Speech API
+
+Translating speech to text, converting text to speech, speech translation
+
+#### Language API
+
+Text analysis, to understand what a person wants, sentiment
+
+#### Decision API
+
+Detect abnormalities in the data collected
+
+Content Moderator to monitor for offensive language
+
+#### Search API
+
+Bing News Search, Video Search
 
 ## Security Privacy Compliance and Trust
 
