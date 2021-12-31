@@ -153,7 +153,9 @@ Virtual private network gateway, the traffic sent via the Gateway is encrypted.
 
 **Site to Site Connection**: connect on-premise networks to Azure networks, your on-premise network should have a VPN device with an IP address that is routable over the Internet
 
+## Virtual Network Peering
 
+Connection between VM and VM through Azure backbone network, not public internet (low-latency, security, high-bandwidth)
 
 
 
