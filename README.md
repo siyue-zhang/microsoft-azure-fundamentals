@@ -61,11 +61,11 @@ On-premise Web Server + Database Server:
 
 only for B1S VM
 
-## Resource Groups
+### Resource Groups
 
 Container to hold related resources
 
-## Virtual Network
+### Virtual Network
 
 * Virtual machines are hosted in the virtual network
 * VN can consist of multiple subnets
@@ -75,7 +75,7 @@ A public IP address can also be allocated to a VM. It allows for communication t
 
 Virtual Network Peering: VM communicate with another VM
 
-## Dedicated Hosts
+### Dedicated Hosts
 
 * This is a service that gives you a physical server as a resource
 * Allow you to host one or more VMs on the physical server
@@ -83,11 +83,11 @@ Virtual Network Peering: VM communicate with another VM
 * Hardware isolation at the physical server level
 * Has control over the maintenance events that get initiated by Azure platform
 
-## Marketplace
+### Marketplace
 
 E.g. Wordpress on Windows Server 2016, solution installed OS
 
-## Network Security Groups
+### Network Security Groups
 
 * Used to control traffic into your subnet or VM
 * Inbound and outbound traffic
@@ -98,7 +98,7 @@ E.g. Wordpress on Windows Server 2016, solution installed OS
 2. Allows RDP traffic via NSG rules (port 3389)
 3. Allows HTTP traffic via NSG rules (port 80)
 
-## VM Scale Sets
+### VM Scale Sets
 
 Scale sets increase/ decrease the amount of VMs when pre-defined critera has been met (e.g. 70% CPU utilization)
 
@@ -107,7 +107,7 @@ Scale sets increase/ decrease the amount of VMs when pre-defined critera has bee
 * Add high availability to infra
 * Place the Scale Set behind either a load balancer or an Application Gateway
 
-## Load Balancer
+### Load Balancer
 
 User request -> load balancer -> VMs
 
@@ -119,7 +119,7 @@ Session Persistence - Client IP's can be directed to the same backend VMs
 
 Work at Layer 4 - Network Layer
 
-## Application Gateway
+### Application Gateway
 
 Load balancer that works at Layer 7 - Application Layer
 
@@ -131,7 +131,7 @@ URL based routing: user can define mapping between the URL link and the VM
 
 Web Application Firewall: protect against common attacks such as SQL injection, cross site sripting attacks
 
-## Azure Storage
+### Azure Storage
 
 Different types of services:
 * BLOB: object storage solution, store unstructured data, files/ videos/ images/ log files
@@ -139,13 +139,13 @@ Different types of services:
 * Table: used for structured NoSQL data, e.g. user data for applications
 * Queue: used for storage and retrieval of messages, a single message in the queue max 64 KB
 
-### BLOB (binary large object)
+#### BLOB (binary large object)
 
 * Hot storage tier - ideal for objects that are accessed frequently
 * Cool tier - optimized for data that is infrequently accessed
 * Archive tier - optimized for data that is rarely accessed
 
-## VPN Gateway
+### VPN Gateway
 
 Virtual private network gateway, the traffic sent via the Gateway is encrypted.
 
@@ -153,13 +153,19 @@ Virtual private network gateway, the traffic sent via the Gateway is encrypted.
 
 **Site to Site Connection**: connect on-premise networks to Azure networks, your on-premise network should have a VPN device with an IP address that is routable over the Internet
 
-## Virtual Network Peering
+### Virtual Network Peering
 
 Connection between VM and VM through Azure backbone network, not public internet (low-latency, security, high-bandwidth)
 
+### ExpressRoute
 
+This sevice allows you to extend a company's on-premise network to the Microsoft cloud using a private connection that is proverd by a connectivity provider
 
+Layer 3 routing
 
+A private link doesn't go via Internet
+
+##  
 
 
 
