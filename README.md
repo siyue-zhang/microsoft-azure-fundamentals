@@ -270,6 +270,16 @@ Source code can be located in Github.
 
 <img src=./Func.JPG width=600>
 
+Consumption Plan: on-demand run of codes, charged for the number of execution, execution time, Memory used
+
+Max allowable execution time is 5 minutes.
+
+App Service Plan
+
+Purpose: run functions without managing underlining VM
+
+
+
 
 
 ## Security Privacy Compliance and Trust
