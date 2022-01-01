@@ -291,6 +291,7 @@ Event Source -> Event Grid -> Event Handlers
 E.g. a new file in BLOB -> send an email
 
 ### CosmosDB
+Azure has introduced a new storage option Azure Cosmos DB.  Cosmos DB is a distributed database built with global distribution and horizontal scale at its core. Cosmos DB enables to elastically scale throughput and storage across any number of Azure’s geographic regions.
 
 * Multi-model database: support various APIs for Table, SQL, MongoDB, Cassandra...
 * Low latency access to data
