@@ -278,9 +278,33 @@ App Service Plan
 
 Purpose: run functions without managing underlining VM
 
+### Event Grid
 
+Event Source -> Event Grid -> Event Handlers
 
+### Logic Apps
 
+* Serverless service
+* Build workflows
+* Can build workflows via a Visual Designer
+
+E.g. a new file in BLOB -> send an email
+
+### CosmosDB
+
+* Multi-model database: support various APIs for Table, SQL, MongoDB, Cassandra...
+* Low latency access to data
+* Instant replication of data across regions
+* Scales based on demand
+* Fully managed and serverless
+
+Throughput: A combined measure of CPU, Memory and IOPS, measured in Request Units
+
+The cost to read 1 KB item is 1 Request Unit. Billing is done on a hourly basis.
+
+### Azure SQL Database
+
+<img src=./sqlDB.JPG width=600>
 
 ## Security Privacy Compliance and Trust
 
