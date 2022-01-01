@@ -242,12 +242,33 @@ Test Plans: manage manual testing includes user acceptance test, exploratory tes
 
 Source code can be located in Github.
 
+### Serverless Services
 
+**Azure Functions**: serverless compute service
+* Deploy function code onto Azure
+* Only pay for the amount of time the code runs
 
+**Serverless Kubernetes**: deploy container based applications
 
+**Azure Logic Apps**: used to design workflows in Azure
 
+**Event Grid**: event-based service
+* Work with events generated from Azure services
 
+**API Management**: used to manage backend APIs
 
+**SQL Databases**: serverless version of Azure SQL database
+* Only pay for the compute used
+
+**Cosmos DB**
+
+### Azure Functions
+
+* Serverless compute service
+* C#, F#, Node.js, Java, PHP
+* Pay for only what you use
+
+[]()
 
 ## Security Privacy Compliance and Trust
 
