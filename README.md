@@ -306,6 +306,20 @@ The cost to read 1 KB item is 1 Request Unit. Billing is done on a hourly basis.
 
 <img src=./sqlDB.JPG width=600>
 
+Pricing: DTU - Database Transaction Unit, bundles measure of compute, storage and IO resources
+
+vCore based model - customers choose the amount of compute and storage
+
+SQL elastic pool: allow share compute and storage recources for different database in a particular pool
+
+### Azure SQL Managed Instance
+
+100% compatability with SQL commercial verison
+
+Native virtual network implementation for security
+
+Easier for companies to lift and shift exsiting SQL Server workloads onto Azure
+
 ## Security Privacy Compliance and Trust
 
 
