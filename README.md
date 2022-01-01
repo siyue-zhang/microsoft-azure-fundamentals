@@ -276,7 +276,7 @@ Max allowable execution time is 5 minutes.
 
 App Service Plan
 
-Purpose: run functions without managing underlining VM
+Purpose: run functions without managing underlying VM
 
 ### Event Grid
 
