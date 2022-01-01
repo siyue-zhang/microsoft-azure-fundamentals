@@ -268,7 +268,9 @@ Source code can be located in Github.
 * C#, F#, Node.js, Java, PHP
 * Pay for only what you use
 
-![func](./Func.png)
+<img src=./Func.JPG width=600>
+
+
 
 ## Security Privacy Compliance and Trust
 
