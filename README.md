@@ -321,6 +321,15 @@ Native virtual network implementation for security
 
 Easier for companies to lift and shift exsiting SQL Server workloads onto Azure
 
+### SQL Data Warehouse
+
+Traditional SQL stores data in a row-by-row format
+
+Warehouse stores data in relational tables using columnar storage
+
+### Synapse Analytics Service
+
+
 ## Security Privacy Compliance and Trust
 
 
